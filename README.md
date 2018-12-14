@@ -33,3 +33,10 @@ Video Generation from Text using Tree like decision using GANs. The text annotat
 4. Cluster traning is impossible for now
 
 ### Results will not be updated here since there might be related publications.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
